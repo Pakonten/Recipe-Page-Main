@@ -14,7 +14,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - CSS custom properties
 
 ### What I learned
-
 This my first ever project so I learned a lot of things, mostly to use knoledge in real conditions.
 I also learned to place everything in the right place without flex or grid and use list contents and ":before".
 
